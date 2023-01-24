@@ -590,7 +590,7 @@ section {
 }
 
 .breadcrumbs h2 {
-  font-size: 26px;
+  font-size: 18px;
   font-weight: 300;
   color: #fff;
 }
@@ -621,7 +621,7 @@ section {
 
 @media (max-width: 991px) {
   .breadcrumbs {
-    margin-top: 58px;
+    margin-top: 84px;
   }
 
   .breadcrumbs .d-flex {
